@@ -1,4 +1,4 @@
-# blog_api
+# Blog
 Practice project for understanding django and django rest API
 
 # Used
@@ -10,4 +10,3 @@ Practice project for understanding django and django rest API
  * Django Models
  * Django REST views
  * Django Admin
- * 
